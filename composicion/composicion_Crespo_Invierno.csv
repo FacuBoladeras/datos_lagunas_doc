@@ -1,11 +1,11 @@
-Especie,Abundancia_total,Porcentaje
-Keratella tropica,7.057384403,75.00036671608865
-Brachionus havanaensis ,0.584886128,6.2157127318310765
-Keratella cuernito,0.533333333,5.667849910500875
-Brachionus quadridentatus,0.416666667,4.42800774888872
-Lecane bulla ,0.281573499,2.99234312269503
-Mytilina ventralis  ,0.219323672,2.3308006040491067
-Trichocerca sp. ,0.119047619,1.2651450695928887
-Lecane lunaris ,0.108695652,1.1551324534595222
-Colurella sp. ,0.044444444,0.47232082144706516
-Lepadella cf. ovalis,0.044444444,0.47232082144706516
+Especie,Abundancia_total,Cladoceros,Copepodos,Rotiferos,Clase,Porcentaje
+Keratella tropica,7.057384403,0,0,1,Rotifera,75.00036671608865
+Brachionus havanaensis ,0.584886128,0,0,1,Rotifera,6.2157127318310765
+Keratella cuernito,0.533333333,0,0,1,Rotifera,5.667849910500875
+Brachionus quadridentatus,0.416666667,0,0,1,Rotifera,4.42800774888872
+Lecane bulla ,0.281573499,0,0,1,Rotifera,2.99234312269503
+Mytilina ventralis  ,0.219323672,0,0,1,Rotifera,2.3308006040491067
+Trichocerca sp. ,0.119047619,0,0,1,Rotifera,1.2651450695928887
+Lecane lunaris ,0.108695652,0,0,1,Rotifera,1.1551324534595222
+Colurella sp. ,0.044444444,0,0,1,Rotifera,0.47232082144706516
+Lepadella cf. ovalis,0.044444444,0,0,1,Rotifera,0.47232082144706516

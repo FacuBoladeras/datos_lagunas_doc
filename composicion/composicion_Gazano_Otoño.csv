@@ -1,9 +1,9 @@
-Especie,Abundancia_total,Porcentaje
-Keratella coclearis  ,4396.6666669999995,48.79763226442175
-Keratella tropica ,4066.6666663,45.135035142314855
-Brachionus caudatus ,230.00000003000002,2.552719201235033
-Brachionus angularis ,193.3333333,2.145763965605693
-Lecane bulla ,40.0,0.44395116537427287
-Brachionus havanaensis ,39.999999997,0.44395116534097656
-Brachionus calyciflorus,39.99999999,0.44395116526328504
-Lepadella sp1.,3.333333333,0.03699593044415648
+Especie,Abundancia_total,Cladoceros,Copepodos,Rotiferos,Clase,Porcentaje
+Keratella coclearis  ,4396.6666669999995,0,0,1,Rotifera,48.79763226442175
+Keratella tropica ,4066.6666663,0,0,1,Rotifera,45.135035142314855
+Brachionus caudatus ,230.00000003000002,0,0,1,Rotifera,2.552719201235033
+Brachionus angularis ,193.3333333,0,0,1,Rotifera,2.145763965605693
+Lecane bulla ,40.0,0,0,1,Rotifera,0.44395116537427287
+Brachionus havanaensis ,39.999999997,0,0,1,Rotifera,0.44395116534097656
+Brachionus calyciflorus,39.99999999,0,0,1,Rotifera,0.44395116526328504
+Lepadella sp1.,3.333333333,0,0,1,Rotifera,0.03699593044415648

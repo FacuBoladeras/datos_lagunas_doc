@@ -1,4 +1,4 @@
-Calculo de ind por litros ,Termas L1,Termas C,Termas L2 ,Viale L1,Viale C,Viale L2,Inta L1,Inta C,Inta L2,Gazano L1,Gazano C,Gazano L2,Crespo L1,Crespo C,Crespo L2,Hernandez L1,Hernandez C,Hernandez L2,Espinillo L1,Espinillo C,Espinillo L2,Rotiferos,Copepodos,Cladoceros
+Especie,Termas L1,Termas C,Termas L2 ,Viale L1,Viale C,Viale L2,Inta L1,Inta C,Inta L2,Gazano L1,Gazano C,Gazano L2,Crespo L1,Crespo C,Crespo L2,Hernandez L1,Hernandez C,Hernandez L2,Espinillo L1,Espinillo C,Espinillo L2,Rotiferos,Copepodos,Cladoceros
 Brachionus angularis ,0,0,0,0,0,0,0,0,3.888888889,0,0,0,0,0,0,0,0,0,0.402298851,0.433333333,0,1,0,0
 Brachionus calyciflorus,0,0,0,0,0,0,0,0,0,0,0,13.33333333,0,0,0,0,0,0,0,0,0,1,0,0
 Brachionus caudatus ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066666667,0,1,0,0
@@ -36,7 +36,7 @@ Copepodo Cyclopoideo sp 1,1.111111111,0,243.3333333,0,0,0,0,0,0,13.33333333,0.36
 Copepodo Calanoideo sp.,0,0,0,0,0,0,0,233.3333333,0.555555556,0,0.144927536,0,0,0,0,0,8.333333333,10,0,0,0,0,1,0
 Harpacticoideos ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.333333333,0,0,0,0,1,0
 Copepodito ,16.66666667,3.333333333,133.3333333,10,0,0,0.694444444,20,11.66666667,0,0.036231884,0,0,0,0,0,3.333333333,16.66666667,0,0,0,0,1,0
-nauplios ,13.33333333,160,86.66666667,23.33333333,3.333333333,3.333333333,0,36.66666667,6.111111111,0,0,0,0,0,0,3.333333333,0,26.66666667,0,0,0.045454545,0,1,0
+Nauplios ,13.33333333,160,86.66666667,23.33333333,3.333333333,3.333333333,0,36.66666667,6.111111111,0,0,0,0,0,0,3.333333333,0,26.66666667,0,0,0.045454545,0,1,0
 Alona cf. grabla  ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.204545455,0,0,1
 Chydorido sp 2  (grande) ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.333333333,1.666666667,10,0,0,0,0,0,1
 Chydorido sp1. (con placas) ,0,0,0,0,1.666666667,0,0,0,0,0,0,0,0,0,0,0,0,3.333333333,0,0,0.227272727,0,0,1
